@@ -1,0 +1,7 @@
+# I want to show KiCAD as main project source
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
+*.kicad_pcb linguist-detectable=true
+*.kicad_pro linguist-detectable=true
+*.kicad_sch linguist-detectable=true
+*.kicad_mod linguist-detectable=true

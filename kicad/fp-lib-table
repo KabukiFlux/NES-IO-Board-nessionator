@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Nes_xieles_footprints)(type KiCad)(uri ${KIPRJMOD}/Nes_xieles_footprints.pretty)(options "")(descr ""))
+)

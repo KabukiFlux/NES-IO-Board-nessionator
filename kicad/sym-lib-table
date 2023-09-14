@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Nes_xieles_symbols")(type "KiCad")(uri "${KIPRJMOD}/Nes_xieles_symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "Nes_xieles-rescue")(type "KiCad")(uri "${KIPRJMOD}/Nes_xieles-rescue.kicad_sym")(options "")(descr ""))
+)
